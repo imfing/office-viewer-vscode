@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="images/hero.png" alt="Office Viewer rendering a PowerPoint deck inside VS Code with the thumbnail sidebar open" style="max-width: 960px;" />
+  <img src="images/hero.png" alt="Office Viewer inside VS Code" style="max-width: 960px;" />
 </p>
 
 ## Highlights
