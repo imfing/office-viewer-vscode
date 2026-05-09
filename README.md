@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/icon.png" alt="Office Viewer" width="96" />
+</p>
+
 <h1 align="center">Office Viewer</h1>
 
 <p align="center">
