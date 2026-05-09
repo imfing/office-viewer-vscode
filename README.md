@@ -26,9 +26,9 @@
 
 <table>
   <tr>
-    <td width="33%"><img src="images/docx-paper.png" alt="Academic paper layout" /></td>
-    <td width="33%"><img src="images/docx-dash.png" alt="Report with charts and tables" /></td>
-    <td width="33%"><img src="images/docx-recipe.png" alt="Recipe-style document layout" /></td>
+    <td width="33%"><img src="images/docx-paper.png" alt="Academic paper demo" /></td>
+    <td width="33%"><img src="images/docx-dash.png" alt="Report demo" /></td>
+    <td width="33%"><img src="images/docx-recipe.png" alt="Recipe document" /></td>
   </tr>
 </table>
 
@@ -36,9 +36,13 @@ Headers and footers, comments, footnotes, endnotes, tracked changes, bookmarks, 
 
 ### PowerPoint
 
-<p align="center">
-  <img src="images/pptx.png" alt="PowerPoint deck open in VS Code" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><img src="images/pptx-chart.png" alt="Slide with a chart" /></td>
+    <td width="33%"><img src="images/pptx-notes.png" alt="Slide with speaker notes panel open" /></td>
+    <td width="33%"><img src="images/pptx-sorter.png" alt="Slide sorter grid view" /></td>
+  </tr>
+</table>
 
 Shapes, SmartArt diagrams, charts, tables, and speaker notes. Continuous scroll or single-slide mode, plus a slide sorter grid view.
 
