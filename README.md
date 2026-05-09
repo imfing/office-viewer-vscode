@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer-vscode"><img src="https://img.shields.io/visual-studio-marketplace/v/imfing.office-viewer-vscode?label=VS%20Code%20Marketplace&color=0066b8" alt="VS Code Marketplace version" /></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer-vscode"><img src="https://img.shields.io/badge/VS%20Code%20Marketplace-0066b8?logo=visualstudiocode&logoColor=white" alt="VS Code Marketplace" /></a>
 </p>
 
 <p align="center">
-  <img src="images/hero.png" alt="Office Viewer inside VS Code" style="max-width: 960px;" />
+  <img src="images/hero.png" alt="Office Viewer inside VS Code" style="width: 100%; max-width: 960px;" />
 </p>
 
 ## Highlights
@@ -78,7 +78,7 @@ Merged cells, frozen panes, conditional formatting (data bars, color scales, ico
 ## Search anywhere
 
 <p align="center">
-  <img src="images/docx-search.png" alt="Full-text search panel highlighting matches in a Word document" style="max-width: 960px;" />
+  <img src="images/docx-search.png" alt="Full-text search panel highlighting matches in a Word document" style="width: 100%; max-width: 960px;" />
 </p>
 
 Find text across every page or sheet with case-sensitive and whole-word options. Excel search can match either the displayed value or the underlying formula, and results include the cell address.
