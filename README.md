@@ -24,9 +24,13 @@
 
 ### Word
 
-<p align="center">
-  <img src="images/docx.png" alt="Word document open in VS Code" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><img src="images/docx-paper.png" alt="Academic paper layout" /></td>
+    <td width="33%"><img src="images/docx-dash.png" alt="Report with charts and tables" /></td>
+    <td width="33%"><img src="images/docx-recipe.png" alt="Recipe-style document layout" /></td>
+  </tr>
+</table>
 
 Headers and footers, comments, footnotes, endnotes, tracked changes, bookmarks, hyperlinks, table of contents, and math equations.
 
