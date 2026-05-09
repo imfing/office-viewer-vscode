@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer"><img src="https://img.shields.io/visual-studio-marketplace/v/imfing.office-viewer?label=VS%20Code%20Marketplace&color=0066b8" alt="VS Code Marketplace version" /></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer-vscode"><img src="https://img.shields.io/visual-studio-marketplace/v/imfing.office-viewer-vscode?label=VS%20Code%20Marketplace&color=0066b8" alt="VS Code Marketplace version" /></a>
 </p>
 
 <p align="center">
