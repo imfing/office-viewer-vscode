@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer"><img src="https://img.shields.io/visual-studio-marketplace/v/imfing.office-viewer?label=VS%20Code%20Marketplace&color=0066b8" alt="VS Code Marketplace version" /></a>
+</p>
+
+<p align="center">
   <img src="images/hero.png" alt="Office Viewer inside VS Code" style="max-width: 960px;" />
 </p>
 
