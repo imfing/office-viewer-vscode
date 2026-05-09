@@ -1,0 +1,67 @@
+name: Bug report
+description: Report a rendering glitch, crash, or unexpected behavior.
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: format
+    attributes:
+      label: File format
+      options:
+        - .docx (Word)
+        - .pptx (PowerPoint)
+        - .xlsx (Excel)
+        - Multiple / not sure
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What happened?
+      description: Describe the problem and what you expected to happen.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open file `example.pptx`
+        2. Scroll to slide 5
+        3. Notice that the chart axis labels are missing
+    validations:
+      required: true
+  - type: textarea
+    id: sample
+    attributes:
+      label: Sample file
+      description: If possible, attach a minimal file that reproduces the problem. You can drag-and-drop into this field. Please ensure it contains no sensitive information.
+  - type: input
+    id: vscode-version
+    attributes:
+      label: VS Code version
+      placeholder: e.g. 1.95.0
+    validations:
+      required: true
+  - type: input
+    id: extension-version
+    attributes:
+      label: Extension version
+      placeholder: e.g. 0.1.0
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Operating system
+      options:
+        - macOS
+        - Windows
+        - Linux
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshots or clips
+      description: Drop images or short videos here if they help illustrate the issue.
