@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/icon.png" alt="Office Viewer" width="96" />
+  <img src="images/icon.png" alt="Office Viewer" width="96" />
 </p>
 
 <h1 align="center">Office Viewer</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/hero.png" alt="Office Viewer" />
+  <img src="images/hero.png" alt="Office Viewer" />
 </p>
 
 ## Highlights
@@ -25,7 +25,7 @@
 ### Word
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/docx.png" alt="Word document open in VS Code" />
+  <img src="images/docx.png" alt="Word document open in VS Code" />
 </p>
 
 Headers and footers, comments, footnotes, endnotes, tracked changes, bookmarks, hyperlinks, table of contents, and math equations.
@@ -33,7 +33,7 @@ Headers and footers, comments, footnotes, endnotes, tracked changes, bookmarks, 
 ### PowerPoint
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/pptx.png" alt="PowerPoint deck open in VS Code" />
+  <img src="images/pptx.png" alt="PowerPoint deck open in VS Code" />
 </p>
 
 Shapes, SmartArt diagrams, charts, tables, and speaker notes. Continuous scroll or single-slide mode, plus a slide sorter grid view.
@@ -41,7 +41,7 @@ Shapes, SmartArt diagrams, charts, tables, and speaker notes. Continuous scroll 
 ### Excel
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/xlsx.png" alt="Excel workbook open in VS Code" />
+  <img src="images/xlsx.png" alt="Excel workbook open in VS Code" />
 </p>
 
 Merged cells, frozen panes, conditional formatting (data bars, color scales, icon sets), sparklines, formulas, cell comments, and built-in table styles.
@@ -49,7 +49,7 @@ Merged cells, frozen panes, conditional formatting (data bars, color scales, ico
 ## Smooth navigation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/sidebar-outline.png" alt="Sidebar with page thumbnails and heading outline" />
+  <img src="images/sidebar-outline.png" alt="Sidebar with page thumbnails and heading outline" />
 </p>
 
 - Toolbar with page navigation, jump-to-page, zoom in and out, and zoom presets (fit page, fit width, actual size, 50% to 400%).
@@ -59,7 +59,7 @@ Merged cells, frozen panes, conditional formatting (data bars, color scales, ico
 ## Search anywhere
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/search.png" alt="Full-text search panel" />
+  <img src="images/search.png" alt="Full-text search panel" />
 </p>
 
 Find text across every page or sheet with case-sensitive and whole-word options. Excel search can match either the displayed value or the underlying formula, and results include the cell address.
