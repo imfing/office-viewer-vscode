@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="images/hero.png" alt="Office Viewer" width="960" />
+  <img src="images/hero.png" alt="Office Viewer" style="max-width: 960px;" />
 </p>
 
 ## Highlights
