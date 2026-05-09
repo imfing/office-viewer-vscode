@@ -48,9 +48,13 @@ Shapes, SmartArt diagrams, charts, tables, and speaker notes. Continuous scroll 
 
 ### Excel
 
-<p align="center">
-  <img src="images/xlsx.png" alt="Excel workbook open in VS Code" />
-</p>
+<table>
+  <tr>
+    <td width="33%"><img src="images/xlsx-sales.png" alt="Sales workbook with charts and conditional formatting" /></td>
+    <td width="33%"><img src="images/xlsx-expense.png" alt="Expense tracker" /></td>
+    <td width="33%"><img src="images/xlsx-assets.png" alt="Asset register workbook" /></td>
+  </tr>
+</table>
 
 Merged cells, frozen panes, conditional formatting (data bars, color scales, icon sets), sparklines, formulas, cell comments, and built-in table styles.
 
