@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="images/hero.png" alt="Office Viewer" />
+  <img src="images/hero.png" alt="Office Viewer" width="960" />
 </p>
 
 ## Highlights
