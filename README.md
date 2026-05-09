@@ -1,22 +1,12 @@
-# Office Viewer for VS Code
+<h1 align="center">Office Viewer</h1>
 
-Office document viewer extension for VS Code with high-fidelity local rendering for `.docx`, `.xlsx`, and `.pptx` files. Modern, fast, fully local.
+<p align="center">
+  Office document viewer extension for VS Code with high-fidelity local rendering for <code>.docx</code>, <code>.xlsx</code>, and <code>.pptx</code> files. Modern, fast, fully local.
+</p>
 
-This repository hosts releases and issue tracking for the extension. The extension's source code is closed.
-
-## Install
-
-Install from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer), or with the command line:
-
-```sh
-code --install-extension imfing.office-viewer
-```
-
-A signed `.vsix` is also attached to each [GitHub Release](https://github.com/imfing/office-viewer-vscode/releases) for offline or air-gapped installation:
-
-```sh
-code --install-extension office-viewer-X.Y.Z.vsix
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/hero.png" alt="Office Viewer" />
+</p>
 
 ## Highlights
 
@@ -26,19 +16,70 @@ code --install-extension office-viewer-X.Y.Z.vsix
 - **Full-text search.** Case-sensitive and whole-word options across all pages. In Excel, search matches displayed values or underlying formulas, with cell addresses in results.
 - **Multi-pane support.** Open the same file in split panes to compare different pages side by side.
 
-See the [Marketplace listing](https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer) for the full feature list and screenshots.
+## Supported formats
 
-## Reporting issues
+### Word
 
-Found a bug or a rendering glitch? Please [open an issue](https://github.com/imfing/office-viewer-vscode/issues/new/choose) with:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/docx.png" alt="Word document open in VS Code" />
+</p>
 
-- The file format (`.docx` / `.pptx` / `.xlsx`)
-- A minimal sample file if possible
-- Your VS Code version and operating system
-- A screenshot or short clip of the problem
+Headers and footers, comments, footnotes, endnotes, tracked changes, bookmarks, hyperlinks, table of contents, and math equations.
 
-Feature requests and questions are welcome too.
+### PowerPoint
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/pptx.png" alt="PowerPoint deck open in VS Code" />
+</p>
+
+Shapes, SmartArt diagrams, charts, tables, and speaker notes. Continuous scroll or single-slide mode, plus a slide sorter grid view.
+
+### Excel
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/xlsx.png" alt="Excel workbook open in VS Code" />
+</p>
+
+Merged cells, frozen panes, conditional formatting (data bars, color scales, icon sets), sparklines, formulas, cell comments, and built-in table styles.
+
+## Smooth navigation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/sidebar-outline.png" alt="Sidebar with page thumbnails and heading outline" />
+</p>
+
+- Toolbar with page navigation, jump-to-page, zoom in and out, and zoom presets (fit page, fit width, actual size, 50% to 400%).
+- Sidebar with page thumbnails and a clickable heading outline.
+- Keyboard and touch: arrow keys to flip pages, Ctrl/Cmd+F to search, swipe to navigate slides.
+
+## Search anywhere
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imfing/office-viewer-vscode/main/images/search.png" alt="Full-text search panel" />
+</p>
+
+Find text across every page or sheet with case-sensitive and whole-word options. Excel search can match either the displayed value or the underlying formula, and results include the cell address.
+
+## Rendering details
+
+- Embedded fonts and CJK fallbacks for correct Chinese, Japanese, and Korean text on any platform.
+- Visual effects like gradients, shadows, glow, dashed strokes, and patterned fills.
+- Page-on-demand rendering keeps large documents responsive while you scroll and zoom.
+
+## Install
+
+Install from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=imfing.office-viewer), or from the command line:
+
+```sh
+code --install-extension imfing.office-viewer
+```
+
+A `.vsix` is also attached to each [GitHub release](https://github.com/imfing/office-viewer-vscode/releases) for offline or air-gapped installation.
+
+## Feedback
+
+Bug reports and feature requests are welcome at the [issue tracker](https://github.com/imfing/office-viewer-vscode/issues).
 
 ## License
 
-See [LICENSE](./LICENSE). Free for personal and non-commercial use; commercial use requires a separate agreement.
+Free for personal and non-commercial use. Commercial use requires a separate agreement. See [LICENSE](./LICENSE) for the full terms.
