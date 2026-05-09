@@ -60,9 +60,12 @@ Merged cells, frozen panes, conditional formatting (data bars, color scales, ico
 
 ## Smooth navigation
 
-<p align="center">
-  <img src="images/sidebar-outline.png" alt="Sidebar with page thumbnails and heading outline" />
-</p>
+<table>
+  <tr>
+    <td width="50%"><img src="images/pptx-pages.png" alt="Slide thumbnails sidebar in PowerPoint" /></td>
+    <td width="50%"><img src="images/docx-outline.png" alt="Heading outline sidebar in Word" /></td>
+  </tr>
+</table>
 
 - Toolbar with page navigation, jump-to-page, zoom in and out, and zoom presets (fit page, fit width, actual size, 50% to 400%).
 - Sidebar with page thumbnails and a clickable heading outline.
@@ -71,7 +74,7 @@ Merged cells, frozen panes, conditional formatting (data bars, color scales, ico
 ## Search anywhere
 
 <p align="center">
-  <img src="images/search.png" alt="Full-text search panel" />
+  <img src="images/docx-search.png" alt="Full-text search panel highlighting matches in a Word document" style="max-width: 960px;" />
 </p>
 
 Find text across every page or sheet with case-sensitive and whole-word options. Excel search can match either the displayed value or the underlying formula, and results include the cell address.
